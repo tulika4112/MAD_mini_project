@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623762233750",
+    "project_id": "feel-ff96e",
+    "storage_bucket": "feel-ff96e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623762233750:android:3b156458e972599865a5b7",
+        "android_client_info": {
+          "package_name": "com.example.feelsecure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623762233750-a7sguerj7lusuvoah2lf12csftst2fjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3m8wU-_AE3HKSnr6XA0ArhPTR3_xwLTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623762233750-a7sguerj7lusuvoah2lf12csftst2fjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
